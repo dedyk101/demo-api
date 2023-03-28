@@ -2,7 +2,7 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "yuhu"
     }
   ],
   "dukcapil": [
@@ -10,12 +10,7 @@
       "nik": 1111111111,
       "nama": "joko",
       "alamat":"depok"
-    },
-    {
-      "nik": 222222222,
-      "nama": "susilo",
-      "alamat":"jakarta"
-    },
+    }
   ],
   "profile": {
     "name": "typicode"

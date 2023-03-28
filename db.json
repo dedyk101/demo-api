@@ -7,22 +7,41 @@
   ],
   "dukcapil": [
     {
-      "nik": 1111111111,
+      "id": "1111111111",
+      "nik": "1111111111",
       "nama": "joko",
       "alamat":"depok"
     },
     {
-      "nik": 222222222,
+      "id": "222222222",
+      "nik": "222222222",
       "nama": "susilo",
       "alamat":"jakarta"
     }
   ],
  "tnkb":[
    {
+      "id":"B1111OK",
       "nopol":"B1111OK",
       "warna":"merah",
       "type":"R4",
       "merek":"toyota"
    }
+ ],
+ "msisdn":[
+   {
+     "id": "08111111111",
+     "msisdn": "08111111111",
+     "nama": "joko",
+     "provider": "telkomsel",
+     "nik": "1111111111"
+   },
+   {
+     "id": "081777777777",
+     "msisdn": "081777777777",
+     "nama": "susilo",
+     "provider": "xl",
+     "nik": "222222222"
+   } 
  ]
 }

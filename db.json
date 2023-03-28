@@ -28,6 +28,30 @@
       "merek":"toyota"
    }
  ],
+ "anev-kamtibnas":[
+   {
+      "golongan":"kejahatan",
+      "tahun":"2020",
+      "ct":3095
+   },
+   {
+      "golongan":"garkum",
+      "tahun":"2020",
+      "ct":534
+   }
+ ],
+ "crime-index":[
+   {
+      "jenis":"narkotika",
+      "tahun":"2020",
+      "ct":4648
+   },
+   {
+      "jenis":"curat",
+      "tahun":"2020",
+      "ct":1568
+   }
+ ]
  "msisdn":[
    {
      "id": "08111111111",
